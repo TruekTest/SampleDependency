@@ -1,10 +1,10 @@
 {
-    "name": "SampleDepedency",
+    "name": "SampleDependency",
     "description": "Package description goes here. Using GitHub as a source",
     "version": {
         "major": 0,
         "minor": 1,
-        "patch": 2
+        "patch": 3
     },
     "source": {
         "module": "TruekTest/SampleDependency"
